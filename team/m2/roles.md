@@ -21,7 +21,7 @@
   2. [Commit 2](https://github.com/repo/commit2): Summarized team discussions on feature prioritization and updated the `features.md` file with finalized features.
   3. [Commit 3](https://github.com/repo/commit3): Updated the `roles.md` file with detailed action items and responsibilities following each meeting.
 
-## <Name> - Task Manager
+## Bruce Le - Task Manager
 - **Role**: Responsible for organizing and tracking team tasks. <Name> manages the team’s Trello board and ensures that all tasks are properly assigned and completed on time.
 - **Top 3 Commits**:
   1. [Commit 1](https://github.com/repo/commit1): Set up the team’s Trello board with tasks for Milestone #1, including task descriptions and deadlines.
