@@ -3,7 +3,7 @@
 ### October 12, 2024
 - **Task**: Assigned roles for the project
 - **Details**: Contributed to the features.md file by assigning roles to team members
-- **Link to Commit**: [Assign roles](https://github.com/nhan0504/CS326/blob/d83b8a2d4299a6ea8e942f446d31479494ec02f1/team/m2/features.md))
+- **Link to Commit**: [Assign roles](https://github.com/nhan0504/CS326/blob/d83b8a2d4299a6ea8e942f446d31479494ec02f1/team/m2/features.md)
 
 ### October 13, 2024
 - **Task**: Created roles document
@@ -13,7 +13,7 @@
 ### October 14, 2024
 - **Task**: Set up project management tool
 - **Details**: Set up the Trello Board on Jira to organize tasks and track progress
-- **Link to Commit**: [Trello Board](https://cs326project.atlassian.net/jira/core/projects/C3TP/board))
+- **Link to Commit**: [Trello Board](https://cs326project.atlassian.net/jira/core/projects/C3TP/board)
 
 ### October 15, 2024
 - **Task**: Contributed to milestone 2 submission
