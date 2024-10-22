@@ -24,9 +24,9 @@
 ## Bruce Le - Task Manager
 - **Role**: Responsible for organizing and tracking team tasks. <Name> manages the team’s Trello board and ensures that all tasks are properly assigned and completed on time.
 - **Top 3 Commits**:
-  1. [Commit 1](https://github.com/repo/commit1): Set up the team’s Trello board with tasks for Milestone #1, including task descriptions and deadlines.
-  2. [Commit 2](https://github.com/repo/commit2): Assigned tasks to team members based on discussions during the team’s planning meetings and updated Trello with new assignments.
-  3. [Commit 3](https://github.com/repo/commit3): Monitored task progress and updated the board, ensuring that tasks were completed by the deadline.
+  1. [Commit 1](https://cs326project.atlassian.net/jira/core/projects/C3TP/board): Set up the team’s Trello board with tasks for Milestone #1, including task descriptions and deadlines.
+  2. [Commit 2](https://github.com/nhan0504/CS326/blob/d83b8a2d4299a6ea8e942f446d31479494ec02f1/team/m2/roles.md): Assigned tasks to team members based on discussions during the team’s planning meetings and updated Trello with new assignments.
+  3. [Commit 3](https://cs326project.atlassian.net/jira/core/projects/C3TP/board): Monitored task progress and updated the board, ensuring that tasks were completed by the deadline.
 
 ## Sophia Hubscher - Communication Lead
 - **Role**: Facilitates communication within the team. Sophia is responsible for maintaining and managing the team’s Slack workspace and ensuring that all members stay informed and engaged.
