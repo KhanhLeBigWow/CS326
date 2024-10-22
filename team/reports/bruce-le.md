@@ -18,4 +18,4 @@
 ### October 15, 2024
 - **Task**: Contributed to milestone 2 submission
 - **Details**: Discussed with team members and contributed to the milestone 2 submission to ensure all elements were included
-- **Link to Commit**: [Milestone 2 Submission](https://docs.google.com/document/d/1v19XWhvgySFnZ7j5b74GndgR3A4vljDQKfGb8OmRtfA/edit?tab=t.0)
+- **Link to Commit**: [Milestone 2 Submission](https://docs.google.com/document/d/1K1DXzFCZuhf6Vd_p5dW52NF7W1mOVx7mjVKIlJdaC_A/edit?tab=t.0)
